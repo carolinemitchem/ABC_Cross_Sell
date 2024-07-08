@@ -423,8 +423,6 @@ print(product_rankings.head())
 cursor.commit()'''
 
 
-
-
 cursor.execute("DELETE FROM opportunity_products")
 cursor.commit()
 
