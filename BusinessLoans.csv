@@ -1,7 +1,7 @@
 Bucket,Salary,Age,Credit Score,Avg Monthly Bal,Avg Line of Credit,Gender
 1,0,1,-6,1,5,1
 2,2,4,-4,1,2,0
-3,3,6,4,2,-28,Null
-4,6,6,5,3,0,Null
-5,8,4,6,4,0,Null
-6,9,1,Null,6,0,Null
+3,3,3,4,2,-21,Null
+4,4,4,5,3,0,Null
+5,4,4,5,4,0,Null
+6,6,1,Null,5,0,Null
